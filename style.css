@@ -1,15 +1,12 @@
-@media screen and (max-width: 499px) {
+@media screen and (max-width: 999px) {
     #container {
-        width: 
+        width: 80%; 
     }
 }
-@media screen and (min-width: 500px) and (max-width: 999px) {
-    #container {
-        
-    }
-} 
+
 @media screen and (min-width:1000px) {
     #container {
+        width: 800px;
     }
 }
 
@@ -32,7 +29,6 @@
 }
 
 #container {
-    width: 900px;
     margin: auto;
     background-color: white;
     border: 1px solid white;
