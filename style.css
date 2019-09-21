@@ -6,7 +6,7 @@
 
 @media screen and (min-width:1000px) {
     #container {
-        width: 950px;
+		width: 500px;
     }
 }
 
@@ -17,7 +17,7 @@
     display: block;
     margin: auto;
 }
-
+/*
 .portfolio_article {
     border: 1px solid red;
 }
@@ -29,15 +29,28 @@
 .portfolio_article p {
     border: 1px solid blue;
 }
-
+*/
 #container {
     margin: auto;
     background-color: white;
-    border: 1px solid white;
+    /* border: 1px solid black; */ 
 	font-family: 'Oswald',sans-serif;
 }
 
+#container a {
+	color: black;
+	text-decoration: none;
+}
+
+#container a:hover {
+	text-decoration: underline;
+}
+
 #container h1 {
-    border: 1px solid black;
+    /* border: 1px solid black;*/
     text-align: center;
+}
+
+#container footer {
+	text-align: center;
 }
