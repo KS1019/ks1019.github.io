@@ -4,7 +4,7 @@ date: 2022-11-20T08:29:00Z
 draft: false
 type: "page"
 ---
-
+<meta name="google-site-verification" content="-NAsw02ImQs2Tl-PXGGWMQlxtOOqG50_mPqdqoIkB9c" />
 # Kotaro Suto's Portfolio
 
 <img src="/images/twitterIcon.jpg" id="icon">
