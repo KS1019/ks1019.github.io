@@ -8,6 +8,15 @@ type: "page"
 # Kotaro Suto's Portfolio
 
 <img src="/images/twitterIcon.jpg" id="icon">
+<style>
+#icon {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+</style>
 
 ## I am
 
