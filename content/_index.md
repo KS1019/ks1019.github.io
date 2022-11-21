@@ -5,7 +5,7 @@ draft: false
 type: "page"
 ---
 <meta name="google-site-verification" content="-NAsw02ImQs2Tl-PXGGWMQlxtOOqG50_mPqdqoIkB9c" />
-
+<br>
 <img src="/images/twitterIcon.jpg" id="icon" alt="My Twitter Icon Image">
 <style>
 #icon {
