@@ -12,7 +12,6 @@ dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto-without-switcher"
 disableSummary = true
-customCSS = ['css/style.css']
 
 [[params.social]]
   id = "github"
