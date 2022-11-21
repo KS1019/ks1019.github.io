@@ -1,4 +1,4 @@
-baseURL = 'https://ks1019.github.io/'
+baseURL = ''#'https://ks1019.github.io/'
 languageCode = 'en-us'
 title = 'Kotaro Suto'
 theme = 'anubis'
@@ -6,10 +6,13 @@ enableRobotsTXT = true
 defaultContentLanguage = 'en-us'
 
 [params]
+author = 'Kotaro Suto'
+description = 'Kotaro Suto Portfolio'
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 style = "auto-without-switcher"
 disableSummary = true
+customCSS = ['css/style.css']
 
 [[params.social]]
   id = "github"
@@ -32,3 +35,6 @@ disableSummary = true
     enableDNT = true
   [privacy.youtube]
     privacyEnhanced = true
+
+[markup.goldmark.renderer]
+unsafe = true
