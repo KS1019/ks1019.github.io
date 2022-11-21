@@ -1,3 +1,34 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ks1019.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kotaro Suto'
+theme = 'anubis'
+enableRobotsTXT = true
+defaultContentLanguage = 'en-us'
+
+[params]
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+style = "auto-without-switcher"
+disableSummary = true
+
+[[params.social]]
+  id = "github"
+  name = "ks1019"
+[[params.social]]
+  id = "twitter"
+  name = "kotarong1"
+[[params.social]]
+  id = "linkedin"
+  name = "kotarosuto"
+
+[frontmatter]
+  lastmod = ['lastmod', ':fileModTime', ':default']
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
