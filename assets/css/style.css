@@ -1,9 +1,0 @@
-@import url(https://cdn.jsdelivr.net/npm/spcss@0.8.0);
-
-#icon {
-    border-radius: 50%;
-    height: 200px;
-    width: 200px;
-    display: block;
-    margin: auto;
-}
