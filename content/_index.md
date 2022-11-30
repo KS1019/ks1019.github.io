@@ -7,7 +7,9 @@ type: "page"
 <meta name="google-site-verification" content="-NAsw02ImQs2Tl-PXGGWMQlxtOOqG50_mPqdqoIkB9c" />
 <meta name="format-detection" content="telephone=no">
 <br>
+
 <img src="/images/twitterIcon.jpg" id="icon" alt="My Twitter Icon Image">
+
 <style>
 #icon {
     border-radius: 50%;
