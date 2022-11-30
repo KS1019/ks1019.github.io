@@ -35,29 +35,21 @@ type: "page"
 
 ## Professional Experience
 ### **AbemaTV** 
-*Tokyo, Japan. Jan 2019 – Aug 2019*
-
-Software Engineering Intern - iOS Application Team
+Software Engineering Intern - iOS Application Team *Tokyo, Japan. Jan 2019 – Aug 2019*
 - Built UI components in Swift to improve the UX of an entertainment application
 - Designed and prototyped a possible new feature to provide similar user experiences the competitor offers
 
 ### **HALLO Programming School** 
-*Tokyo, Japan. Nov 2020 – Mar 2021*
-
-Part time Coaching Staff - Coaching Team
+Part time Coaching Staff - Coaching Team *Tokyo, Japan. Nov 2020 – Mar 2021*
 - Guided students’ learning on the basic and advanced concepts of coding, such as conditionals, loops, and algorithms
 
 ### **mixi, Inc** 
-*Tokyo, Japan. Aug 2021 – Sep 2021*
-
-Software Engineering Intern - minimo iOS Application Team
+Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2021 – Sep 2021*
 - Improved the UX of the existing feature and implemented a new feature by working with product managers and UI designers
 - Refactored inefficient codes, and added new linter rules
 
 ### **mixi, Inc** 
-*Tokyo, Japan. Aug 2022 – Sep 2022*
-
-Software Engineering Intern - minimo iOS Application Team
+Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2022 – Sep 2022*
 - Improved the UI for the existing feature
 - Built a mechanism to constantly monitor the build time of the application with Bash scripts, AWS S3, Rundeck, and Bitrise
 - Built a Bitrise workflow to automatically update Swift Package Manger dependencies
@@ -65,9 +57,7 @@ Software Engineering Intern - minimo iOS Application Team
 - Refactored codes that took too long to compile, improved linter Build Phase Script, rename classes appropriately.
 ## Other Experience
 ### **Mitou Junior** 
-*May 2017 - Oct 2017*
-
-Participant - Music Logger Project
+Participant - Music Logger Project *May 2017 - Oct 2017*
 - Worked on the Music Logger project as an iOS application developer
 
 ## Projects
