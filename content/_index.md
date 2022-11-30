@@ -34,20 +34,6 @@ type: "page"
   - iOS, Xcode, SwiftUI, swift-argument-parser, Bash, Zsh Git, macOS, GitHub,
 
 ## Professional Experience
-### **AbemaTV** 
-Software Engineering Intern - iOS Application Team *Tokyo, Japan. Jan 2019 – Aug 2019*
-- Built UI components in Swift to improve the UX of an entertainment application
-- Designed and prototyped a possible new feature to provide similar user experiences the competitor offers
-
-### **HALLO Programming School** 
-Part time Coaching Staff - Coaching Team *Tokyo, Japan. Nov 2020 – Mar 2021*
-- Guided students’ learning on the basic and advanced concepts of coding, such as conditionals, loops, and algorithms
-
-### **mixi, Inc** 
-Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2021 – Sep 2021*
-- Improved the UX of the existing feature and implemented a new feature by working with product managers and UI designers
-- Refactored inefficient codes, and added new linter rules
-
 ### **mixi, Inc** 
 Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2022 – Sep 2022*
 - Improved the UI for the existing feature
@@ -55,6 +41,21 @@ Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 202
 - Built a Bitrise workflow to automatically update Swift Package Manger dependencies
 - Added new linter rules to improve the quality of the code
 - Refactored codes that took too long to compile, improved linter Build Phase Script, rename classes appropriately.
+
+### **mixi, Inc** 
+Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2021 – Sep 2021*
+- Improved the UX of the existing feature and implemented a new feature by working with product managers and UI designers
+- Refactored inefficient codes, and added new linter rules
+
+### **HALLO Programming School** 
+Part time Coaching Staff - Coaching Team *Tokyo, Japan. Nov 2020 – Mar 2021*
+- Guided students’ learning on the basic and advanced concepts of coding, such as conditionals, loops, and algorithms
+
+### **AbemaTV** 
+Software Engineering Intern - iOS Application Team *Tokyo, Japan. Jan 2019 – Aug 2019*
+- Built UI components in Swift to improve the UX of an entertainment application
+- Designed and prototyped a possible new feature to provide similar user experiences the competitor offers
+
 ## Other Experience
 ### **Mitou Junior** 
 Participant - Music Logger Project *May 2017 - Oct 2017*
