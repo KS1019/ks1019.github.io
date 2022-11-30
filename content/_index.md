@@ -19,42 +19,42 @@ type: "page"
 </style>
 
 ## Education
-### **University of California, Santa Cruz** Sept 2022 - June 2024 (Estimated) Majoring Computer Science
+### **University of California, Santa Cruz** *Sept 2022 - June 2024 (Estimated) Majoring Computer Science*
 - Courses: Data Structures, Intro to Probability Theory
-### **De Anza College** Sept 2019 - June 2022
+### **De Anza College** *Sept 2019 - June 2022*
 - Associate in Science - Transfer (A.S.-T) Computer Science (Computer Information Systems)
 - Courses: Basic C++, OOP in C++, Algorithms, Data Structures
 
 ## Skills
-### Programming Languages
+### Programming Language
 - Swift, Objective-C, C++, Rust, Ruby, Python
-### Technologies
+### Technology
   - iOS, Xcode, SwiftUI, swift-argument-parser, Bash, Zsh Git, macOS, GitHub,
 
 ## Professional Experience
-### **AbemaTV** Tokyo, Japan. Jan 2019 – Aug 2019
+### **AbemaTV** *Tokyo, Japan. Jan 2019 – Aug 2019*
 Software Engineering Intern - iOS Application Team
 - Built UI components in Swift to improve the UX of an entertainment application
 - Designed and prototyped a possible new feature to provide similar user experiences the competitor offers
 
-### **HALLO Programming School** Tokyo, Japan. Nov 2020 – Mar 2021
-Part time Coaching Staff- Coaching Team
+### **HALLO Programming School** *Tokyo, Japan. Nov 2020 – Mar 2021*
+Part time Coaching Staff - Coaching Team
 - Guided students’ learning on the basic and advanced concepts of coding, such as conditionals, loops, and algorithms
 
-### **mixi, Inc** Tokyo, Japan. Aug 2021 – Sep 2021
+### **mixi, Inc** *Tokyo, Japan. Aug 2021 – Sep 2021*
 Software Engineering Intern - minimo iOS Application Team
 - Improved the UX of the existing feature and implemented a new feature by working with product managers and UI designers
 - Refactored inefficient codes, and added new linter rules
 
-### **mixi, Inc** Tokyo, Japan. Aug 2022 – Sep 2022
+### **mixi, Inc** *Tokyo, Japan. Aug 2022 – Sep 2022*
 Software Engineering Intern - minimo iOS Application Team
 - Improved the UI for the existing feature
 - Built a mechanism to constantly monitor the build time of the application with Bash scripts, AWS S3, Rundeck, and Bitrise
 - Built a Bitrise workflow to automatically update Swift Package Manger dependencies
 - Added new linter rules to improve the quality of the code
 - Refactored codes that took too long to compile, improved linter Build Phase Script, rename classes appropriately.
-## Other Experiences
-### **Mitou Junior** May 2017 - Oct 2017
+## Other Experience
+### **Mitou Junior** *May 2017 - Oct 2017*
 Participant - Music Logger Project
 - Worked on the Music Logger project as an iOS application developer
 
