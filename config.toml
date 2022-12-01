@@ -1,5 +1,4 @@
 baseURL = 'https://ks1019.github.io/'
-languageCode = 'en-us'
 title = 'Kotaro Suto'
 theme = 'anubis'
 enableRobotsTXT = true
@@ -39,7 +38,7 @@ disableSummary = true
 unsafe = true
 
 [languages]
-  [languages.en]
+  [languages.en-us]
     languageCode = 'en-us'
   [languages.ja]
     languageCode = 'ja'
