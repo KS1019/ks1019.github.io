@@ -40,7 +40,7 @@ unsafe = true
 
 [languages]
   [languages.en]
-    languageCode = 'en'
+    languageCode = 'en-us'
   [languages.ja]
     languageCode = 'ja'
     title = 'ポートフォリオ'
