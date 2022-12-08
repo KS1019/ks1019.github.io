@@ -45,27 +45,27 @@ type: "page"
 - コンパイルに時間がかかっている部分のリファクタリング、SwiftLintのスクリプトの改善、クラス名のリネーム
 
 ### **mixi** 
-ソフトウェアエンジニアインターン - minimo iOS アプリチーム *東京. 2021年8月 – 2021年9月
+ソフトウェアエンジニアインターン - minimo iOS アプリチーム *東京 2021年8月 – 2021年9月*
 - 既存機能のユーザ体験の改善
-- Implemented a new feature by working with product managers and UI designers
-- Refactored inefficient codes, and added new linter rules
+- プロダクトマネージャーとデザイナーと協力して新機能を実装
+- 非効率なコードのリファクタリング、リンターのルールを追加
 
-### **HALLO Programming School** 
-Part time Coaching Staff - Coaching Team *Tokyo, Japan. Nov 2020 – Mar 2021*
-- Guided students’ learning on the basic and advanced concepts of coding, such as conditionals, loops, and algorithms
+### **プログラミング教育HALLO** 
+プログラミングコーチ *東京 2020年11月 – 2021年5月*
+- 生徒がプログラミングのコンセプト（条件式、ループ、アルゴリズム）を学ぶのをガイドした
 
 ### **AbemaTV** 
-Software Engineering Intern - iOS Application Team *Tokyo, Japan. Jan 2019 – Aug 2019*
-- Built UI components in Swift to improve the UX of an entertainment application
-- Designed and prototyped a possible new feature to provide similar user experiences the competitor offers
+ソフトウェアエンジニアインターン  - iOSアプリチーム *東京 2019年1月 – 2019年8月*
+- Swiftを用いてUIコンポーネントの改善
+- 競合にある機能を追随実装するためのプロトタイプの設計、実装
 
 ## その他
-### **Mitou Junior** 
-Participant - Music Logger Project *May 2017 - Oct 2017*
-- Worked on the Music Logger project as an iOS application developer
+### **未踏ジュニア** 
+採択者 - Music Reminder プロジェクト *2017年5月 - 2017年10月*
+- Music Reminder projectにiOSアプリ開発者として参加
 
 ## 個人プロジェクト
-- Music Reminder
+- [Music Reminder](https://jr.mitou.org/projects/2017/music_reminder)
 - [BitcoinPriceChecker](https://github.com/KS1019/BitcoinPriceChecker)
 - [CA-Tech-Challenge-ONLINE-ACE](https://github.com/KS1019/CA-Tech-Challenge-ONLINE-ACE)
 - [Hondana](https://github.com/KS1019/Hondana)

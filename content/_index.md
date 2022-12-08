@@ -60,11 +60,11 @@ Software Engineering Intern - iOS Application Team *Tokyo, Japan. Jan 2019 – A
 
 ## Other Experience
 ### **Mitou Junior** 
-Participant - Music Logger Project *May 2017 - Oct 2017*
-- Worked on the Music Logger project as an iOS application developer
+Participant - Music Reminder Project *May 2017 - Oct 2017*
+- Worked on the Music Reminder project as an iOS application developer
 
 ## Projects
-- Music Reminder
+- [Music Reminder](https://jr.mitou.org/projects/2017/music_reminder)
 - [BitcoinPriceChecker](https://github.com/KS1019/BitcoinPriceChecker)
 - [CA-Tech-Challenge-ONLINE-ACE](https://github.com/KS1019/CA-Tech-Challenge-ONLINE-ACE)
 - [Hondana](https://github.com/KS1019/Hondana)
