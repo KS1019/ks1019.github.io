@@ -22,8 +22,8 @@ type: "page"
 
 ## Education
 ### **University of California, Santa Cruz** 
-*Sept 2022 - June 2024 (Estimated) Majoring Computer Science*
-- Courses: Data Structures, Intro to Probability Theory
+*Sept 2022 - June 2024 (Estimated) B.S in Computer Science*
+- Courses: Data Structures, Intro to Probability Theory, Computer Architechture, Introduction to Compilers, Distributed Systems
 ### **De Anza College** 
 *Sept 2019 - June 2022*
 - Associate in Science - Transfer (A.S.-T) Computer Science (Computer Information Systems)
@@ -36,6 +36,9 @@ type: "page"
   - iOS, Xcode, SwiftUI, swift-argument-parser, Bash, Zsh Git, macOS, GitHub,
 
 ## Professional Experience
+### **MIXI, Inc**
+Software Engineering Intern - TIPSTAR iOS Application Team *Tokyo, Japan. July 2023 - Sep 2023*
+
 ### **mixi, Inc** 
 Software Engineering Intern - minimo iOS Application Team *Tokyo, Japan. Aug 2022 – Sep 2022*
 - Improved the UI for the existing feature

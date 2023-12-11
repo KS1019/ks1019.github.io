@@ -22,7 +22,7 @@ type: "page"
 
 ## 学歴
 ### **University of California, Santa Cruz** 
-*2022年9月 - 2024年6月 （予定） コンピュータサイエンス専攻*
+*2022年9月 - 2024年6月 （予定） 学士（コンピュータサイエンス）*
 - 授業: Data Structures, Intro to Probability Theory
 ### **De Anza College** 
 *2019年9月 - 2022年6月*
@@ -36,6 +36,8 @@ type: "page"
   - iOS, Xcode, SwiftUI, swift-argument-parser, Bash, Zsh Git, macOS, GitHub,
 
 ## 職務経歴
+### **MIXI**
+ソフトウェアエンジニアインターン - TIPSTAR iOS アプリチーム *東京　2023年7月 - 2023年9月*
 ### **mixi** 
 ソフトウェアエンジニアインターン - minimo iOS アプリチーム *東京. 2022年8月 – 2022年9月*
 - 既存UIの改善
