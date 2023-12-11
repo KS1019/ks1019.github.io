@@ -36,6 +36,8 @@ type: "page"
   - iOS, Xcode, SwiftUI, swift-argument-parser, Bash, Zsh Git, macOS, GitHub,
 
 ## 職務経歴
+### **MIXI**
+ソフトウェアエンジニアインターン - TIPSTAR iOS アプリチーム *東京　2023年7月 - 2023年9月*
 ### **mixi** 
 ソフトウェアエンジニアインターン - minimo iOS アプリチーム *東京. 2022年8月 – 2022年9月*
 - 既存UIの改善
