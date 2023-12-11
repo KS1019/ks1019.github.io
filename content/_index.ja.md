@@ -22,7 +22,7 @@ type: "page"
 
 ## 学歴
 ### **University of California, Santa Cruz** 
-*2022年9月 - 2024年6月 （予定） コンピュータサイエンス専攻*
+*2022年9月 - 2024年6月 （予定） 学士（コンピュータサイエンス）*
 - 授業: Data Structures, Intro to Probability Theory
 ### **De Anza College** 
 *2019年9月 - 2022年6月*
